@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FiledAngularExercises"
+    }
+  },
+  "defaultProject": "FiledAngularExercises",
+  "cli": {
+    "analytics": "804fb441-873a-448e-ba14-704c438fab31"
+  }
 }
