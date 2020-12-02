@@ -1,0 +1,18 @@
+{
+    "customers": [
+      {
+        "name": "Krishnanath Maly",
+        "phone": "910928392098",
+        "address": "Maly house Malayattoor",
+        "membership": "Filed",
+        "id": 1
+      },
+      {
+        "name": "Jhon Wick",
+        "phone": "808937482734",
+        "address": "82–92 Beaver Street New York City",
+        "membership": "High Table",
+        "id": 2
+      }
+    ]
+  }
